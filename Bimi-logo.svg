@@ -1,12 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg"
-     width="500"
-     height="500"
-     viewBox="0 0 500 500"
-     preserveAspectRatio="xMidYMid meet">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg width="500" height="500" viewBox="0 0 500 500" preserveAspectRatio="xMidYMid meet" version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg">
+  <title>bimi-svg-tiny-12-ps</title>
   <rect x="0" y="0" width="500" height="500" fill="#ffffff"/>
-
-  <!-- 375 * 1.4 = 525, so translate by (500 - 525)/2 = -12.5 to center -->
   <g transform="translate(-12.5,-12.5) scale(1.4)">
     <rect x="0" y="0" width="375" height="375" fill="#ffffff"/>
     <path fill="#1e842e" d="M 235.234375 178.542969 L 265.421875 116.378906 L 258.25 113.15625 L 279.417969 100.53125 L 286.375 123.886719 L 279.316406 121.105469 L 244.632812 191.570312 L 232.550781 186.367188 Z"/>

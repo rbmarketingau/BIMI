@@ -1,23 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg"
-     zoomAndPan="magnify"
+     width="500"
+     height="500"
      viewBox="0 0 500 500"
-     preserveAspectRatio="xMidYMid meet"
      version="1.2"
      baseProfile="tiny"
-     width="500"
-     height="500">
-  <g id="e43a261b68">
-    <rect x="0" y="0" width="375" height="375" style="fill:#ffffff;fill-opacity:1;stroke:none;"/>
-    <path style="stroke:none;fill-rule:nonzero;fill:#1e842e;fill-opacity:1;"
-          d="M 235.234375 178.542969 L 265.421875 116.378906 L 258.25 113.15625 L 279.417969 100.53125 L 286.375 123.886719 L 279.316406 121.105469 L 244.632812 191.570312 L 232.550781 186.367188 Z"/>
-    <path style="stroke:none;fill-rule:nonzero;fill:#1e842e;fill-opacity:1;"
-          d="M 209.511719 155.140625 L 227.84375 191.605469 L 244.617188 191.605469 L 220.015625 141.953125 Z"/>
-    <path style="stroke:none;fill-rule:nonzero;fill:#1e842e;fill-opacity:1;"
-          d="M 203.207031 141.953125 L 158.222656 232.851562 L 174.738281 232.941406 L 220.019531 141.953125 Z"/>
-    <path style="stroke:none;fill-rule:nonzero;fill:#1e842e;fill-opacity:1;"
-          d="M 139.652344 196.4375 L 157.988281 232.902344 L 174.765625 232.902344 L 150.160156 183.25 Z"/>
-    <path style="stroke:none;fill-rule:nonzero;fill:#1e842e;fill-opacity:1;"
-          d="M 133.359375 183.25 L 88.375 274.144531 L 104.886719 274.238281 L 150.167969 183.25 Z"/>
+     preserveAspectRatio="xMidYMid meet">
+  <rect x="0" y="0" width="500" height="500" fill="#ffffff"/>
+  <g transform="translate(75,100)">
+    <path fill="#1e842e" d="M160.234 78.543L190.422 16.379L183.25 13.156L204.418 0.531L211.375 23.887L204.316 21.105L169.633 91.57L157.551 86.367Z"/>
+    <path fill="#1e842e" d="M134.512 55.141L152.844 91.605H169.617L145.016 41.953Z"/>
+    <path fill="#1e842e" d="M128.207 41.953L83.223 132.852H99.738L145.02 41.953Z"/>
+    <path fill="#1e842e" d="M64.652 96.438L82.988 132.902H99.766L75.16 83.25Z"/>
+    <path fill="#1e842e" d="M58.359 83.25L13.375 174.145H29.887L75.168 83.25Z"/>
   </g>
 </svg>
